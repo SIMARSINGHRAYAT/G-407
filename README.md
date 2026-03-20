@@ -1,5 +1,3 @@
-<div align="center">
-  
 # A Hybrid Dual-Backbone Ensemble Intelligence Framework for High-Performance Multiclass Image Classification in Visual Recognition Systems
 
 ---
@@ -318,5 +316,3 @@ Future work may focus on extending this framework through the following directio
 5. Deployment of knowledge distillation techniques to compress the dual-backbone ensemble into a single lightweight student network suitable for edge computing and real-time inference environments.
 
 </div>
-
-
