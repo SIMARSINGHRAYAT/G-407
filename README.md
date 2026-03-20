@@ -264,6 +264,15 @@ The dataset processing pipeline includes the following stages:
 
 ### Performance Metrics
 
+```text
+our proposed model: FINAL.csv saved successfully.
+Evaluation metrics on generated data:
+ - Accuracy: 80.645%
+ - Precision: 80.644%
+ - Recall: 80.647%
+ - F1-Score: 80.646%
+```
+
 | Metric | ConvNeXt-Base | EfficientNetV2-M | Ensemble (Proposed) |
 |--------|---------------|------------------|---------------------|
 | Macro F1-Score | 97.2% | 96.8% | **98.4%** |
